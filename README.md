@@ -12,7 +12,7 @@ Follow the bubble and don't stray from the light to survive the night... or die.
 
 ### Teams members
 * Gaston Mancera - 3D ART
-* Juliana Garcia - DEVELOPMENT
+* Juliana García Rosset - DEVELOPMENT
 * Ignacio Eguia - DEVELOPMENT
 * Rocio Cordoba - DEVELOPMENT
 * Ignacio Zayankovsky - SOUND DESIGN/ SOUND COMPOSING
@@ -21,4 +21,4 @@ Follow the bubble and don't stray from the light to survive the night... or die.
 * Fran Maglione - PRODUCTION/ GAME DESIGN
 
 ### More Info
-* [Link of the game in the Global Game Jam webpage](https://globalgamejam.org/games/2025/follow-4)
+* [Link of the game in the Global Game Jam website](https://globalgamejam.org/games/2025/follow-4)
